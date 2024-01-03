@@ -6,6 +6,7 @@ I am currently working on:
 
   - The book R for Data Science (2nd edition), also called R4DS
   - A DNA aligner in Python
+  - A habit tracker web-app using Python and html
 
 <!---
 David-R-Buchmann/David-R-Buchmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
