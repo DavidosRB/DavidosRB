@@ -5,7 +5,7 @@
 I am currently working on:
 
   - The book R for Data Science (2nd edition), also called R4DS
-  - A DNA aligner in Python
+  - Private projects for my internship at the DKFZ (ATV)
   - A habit tracker web-app using Python and html
 
 <!---
