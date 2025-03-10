@@ -1,11 +1,10 @@
-- 👋 Hi, I’m David Buchmann
+- 👋 Hi, I’m David
 - 👀 I’m interested in Video Games, Coding, Biology and other Sciences
 - 🌱 I’m currently learning R and Python as well as Japanese
 
 I am currently working on:
 
-  - The book R for Data Science (2nd edition), also called R4DS
-  - Private projects for my internship at the DKFZ (ATV)
+  - A Twitch Chat Bot called "DavidosBot" that supports custom commands and is coded in Python
   - A habit tracker web-app using Python and html
 
 <!---
